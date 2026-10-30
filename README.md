@@ -5,6 +5,10 @@
 完整图文版网站：[getgiffgaff.com](https://getgiffgaff.com/)
 
 > 本仓库是第三方中文教程镜像，**不是** giffgaff Limited 官方网站、官方客服或授权代表。G0/G2 仅是 getgiffgaff 站内库存分类。
+>
+> [getgiffgaff.com](https://getgiffgaff.com/) 是独立的中文教程与销售站点，**不是** giffgaff 官方网站。
+
+核验日 2026-10-30 Asia/Shanghai
 
 ## 目录
 
@@ -19,6 +23,17 @@
 
 也可在飞书知识库阅读（需已打开互联网可读分享）：  
 https://vi8r050ecuz.feishu.cn/wiki/LboRwcuWBiVNR4kbXA1cVfa9nhc
+
+## 站外完整指南（Batch C）
+
+以下为 getgiffgaff.com 已上线图文指南（Batch C），与本仓库章节互补：
+
+1. [英国 MVNO 对比](https://getgiffgaff.com/guides/uk-mvno-compare/)
+2. [giffgaff PAC 转网](https://getgiffgaff.com/guides/giffgaff-pac/)
+3. [菲律宾 SIM](https://getgiffgaff.com/guides/philippines-sim/)
+4. [德国 SIM 保号](https://getgiffgaff.com/guides/germany-sim-keep-number/)
+5. [Wise / Codex / Grok 手机号验证](https://getgiffgaff.com/guides/wise-codex-grok-phone-verification/)
+6. [eSIM 写入工具怎么选](https://getgiffgaff.com/guides/esim-writer-choice/)
 
 ## 许可与免责
 
