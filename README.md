@@ -2,7 +2,7 @@
 
 购买、激活、充值、保号、eSIM、封号退款。
 
-完整图文版网站：[getgiffgaff.com](https://getgiffgaff.com/)
+完整图文版网站（Homepage）：[getgiffgaff.com](https://getgiffgaff.com/)
 
 博客与 RSS（持续更新政策阅读笔记与工具说明）：
 
@@ -25,6 +25,7 @@
 ## 相关活站页面（精选）
 
 - 保号提醒（浏览器本地 ICS）：https://getgiffgaff.com/tools/keep-number-reminder/
+- 开源日期助手（MIT）：https://github.com/siuserxiaowei/keep-number-reminder
 - PAC / 携号对照：https://getgiffgaff.com/guides/giffgaff-pac/
 - 封号退款：https://getgiffgaff.com/guides/giffgaff-ban-refund/
 - eSIM 写卡器选型：https://getgiffgaff.com/guides/esim-writer-choice/
